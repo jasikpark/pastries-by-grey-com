@@ -1,2 +1,5 @@
 languageCode = "en-us"
-title = "My New Netlify Victor Hugo Site"
+title = "Pastries By Grey"
+backend:
+  name: github
+  repo: jasikpark/pastries-by-grey-com # Path to your GitHub repository
