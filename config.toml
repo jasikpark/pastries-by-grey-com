@@ -1,5 +1,5 @@
 languageCode = "en-us"
 title = "Pastries By Grey"
-backend:
+[backend]
   name = "github"
   repo = "jasikpark/pastries-by-grey-com" # Path to your GitHub repository
