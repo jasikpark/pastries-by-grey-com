@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Great pastries from a local baker
+subtitle: Support a high school student with their budding business
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Pastries By Grey?
