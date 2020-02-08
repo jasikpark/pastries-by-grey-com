@@ -1,7 +1,7 @@
-baseurl = "/"
+baseurl = "https://pastries-by-grey-com.netlify.com/"
 languageCode = "en-us"
 languageLang = "en"
-title = "Homepage"
+title = "Pastries By Grey"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
