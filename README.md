@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c6962912-e6dc-4ea5-ad4f-291abf0c03ca/deploy-status)](https://app.netlify.com/sites/pastries-by-grey-com/deploys)
+
 # Pastries By Grey
 
 A bakery website
